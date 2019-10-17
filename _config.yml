@@ -21,8 +21,23 @@ repository: "j9d3it/j9d3it.github.io"
 description: >- # this means to ignore newlines until "baseurl:"
   The personal website of Kevin Sword, a teacher and translator based in Japan.
 twitter_username: maiya_kebin
+twitter:
+  username: "maiya_kebin"
+social:
+  type:  Person # Person or Organization (defaults to Person)
+  name:  Kevin Sword # If the user or organization name differs from the site's name
+  links:
+    - "https://twitter.com/maiya_kebin"
+    - "https://instagram.com/k.ja.s"
+    - "https://www.linkedin.com/in/ksword"
+og_image: /assets/images/bio-photo.jpg
 github_username: j9d3it
 minimal_mistakes_skin: "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-150274260-1"
+    anonymize_ip: false # default
 search: true
 
 # Build settings
