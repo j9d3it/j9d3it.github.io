@@ -120,7 +120,6 @@ defaults:
       comments: true
       share: true
       related: true
-      published: false
   # _pages
   - scope:
       path: "_pages"
