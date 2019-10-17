@@ -17,6 +17,7 @@ title: "Kevin Sword's personal website"
 email: kevin@0808.pw
 url: "https://www.0808.pw"
 locale: "en"
+timezone: Asia/Tokyo
 repository: "j9d3it/j9d3it.github.io"
 description: >- # this means to ignore newlines until "baseurl:"
   The personal website of Kevin Sword, a teacher and translator based in Japan.
