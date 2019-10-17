@@ -38,7 +38,7 @@ analytics:
   provider: "google-gtag"
   google:
     tracking_id: "UA-150274260-1"
-    anonymize_ip: false # default
+    anonymize_ip: true # default
 compress_html:
   clippings: all
   ignore:
