@@ -1,8 +1,8 @@
 ---
-title: "Post: Standard"
+title: Default Header
 categories:
-  - Blog
+- Blog
 tags:
-  - Updates
-published: false #change to true when posting
+- Updates
+
 ---
