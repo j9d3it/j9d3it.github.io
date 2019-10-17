@@ -39,6 +39,10 @@ analytics:
   google:
     tracking_id: "UA-150274260-1"
     anonymize_ip: false # default
+compress_html:
+  clippings: all
+  ignore:
+    envs: development  # disable compression in dev environment
 search: true
 
 # Build settings
