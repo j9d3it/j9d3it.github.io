@@ -12,7 +12,7 @@ This is a selection of my translated works. Please take a look at them.
 
 <!--more-->
 
-### ガキの使い『絶対に笑ってはいけない青春ハイスクール24時!』字幕
+### ガキの使い『絶対に笑ってはいけない青春ハイスクール24時!』英語字幕
 
 ## Gaki no Tsukai Youth High School 2019-2020 Subtitles
 
