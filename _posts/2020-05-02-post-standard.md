@@ -10,6 +10,12 @@ This is a selection of my translated works. Please take a look at them.
 
 <!--more-->
 
+### ガキの使い　『絶対に笑ってはいけない青春ハイスクール24時!』字幕
+
+## Gaki no Tsukai Youth High School 2019-2020 Subtitles
+
+I volunteered as a translator for Team Gaki, producers of a high-quality fan subtitle project for the New Year's comedy special by Gaki no Tsukai.
+
 ### Ena City 2020 Trash Collection Calendar
 
 English version: [２０２０年度恵那市ごみカレンダー英語版](/uploads/2020英語版ごみカレンダー.pdf "２０２０年度恵那市ごみカレンダー英語版")
