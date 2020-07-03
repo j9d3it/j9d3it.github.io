@@ -18,6 +18,12 @@ This is a selection of my translated works. Please take a look at them.
 
 I volunteered as a translator for Team Gaki, producers of a high-quality fan subtitle project for the New Year's comedy special by Gaki no Tsukai.
 
+Parts I worked on:
+
+Entirety of [Part 9](https://www.teamgaki.com/youth-high-school-batsu-2019-20-part-9/ "Team Gaki") (also available [here](https://www.dailymotion.com/video/k4OvskU9ksAZD8w8FYp "Dailymotion")). 
+
+[Part 7.3](https://www.teamgaki.com/youth-high-school-batsu-2019-20-part-7/ "Team Gaki") (also available [here](https://www.dailymotion.com/video/k5xPeDF6iaoP5Qw3G43 "Dailymotion")) (from 20:08\~)
+
 ### Ena City 2020 Trash Collection Calendar
 
 English version: [２０２０年度恵那市ごみカレンダー英語版](/uploads/2020英語版ごみカレンダー.pdf "２０２０年度恵那市ごみカレンダー英語版")
