@@ -1,5 +1,5 @@
 ---
-title: Translated Works 翻訳された書類
+title: Translated Works 翻訳された物件
 excerpt_separator: "<!--more-->"
 categories:
 - Translation
