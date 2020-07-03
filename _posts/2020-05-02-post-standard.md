@@ -8,6 +8,8 @@ tags: []
 ---
 This is a selection of my translated works. Please take a look at them.
 
+翻訳された物件の一覧です。どうぞ目を通してください。
+
 <!--more-->
 
 ### ガキの使い　『絶対に笑ってはいけない青春ハイスクール24時!』字幕
