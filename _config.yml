@@ -34,11 +34,11 @@ social:
 og_image: /assets/images/bio-photo.jpg
 github_username: j9d3it
 minimal_mistakes_skin: "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
-analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id: "UA-150274260-1"
-    anonymize_ip: true # default
+#analytics:
+#  provider: "google-gtag"
+#  google:
+#    tracking_id: "UA-150274260-1"
+#    anonymize_ip: true # default
 compress_html:
   clippings: all
   ignore:
