@@ -6,39 +6,33 @@ tags: []
 
 ---
 <table>
-  <tr>
+  <tbody><tr>
    <td>400号19p
 <p>
 （タイトル）
-<p>
+</p><p>
 「年越し大人食堂 2021」
-<p>
+</p><p>
 コロナ禍で訪れる人に変化。若い女性、子ども連れ、外国籍の人も
-   </td>
-   <td>Issue 400 p 19
+   </p></td><td>Issue 400 p 19
 <p>
 (Title)
-<p>
+</p><p>
 "New Year's Adults' Cafeteria 2021"
-<p>
+</p><p>
 There have been changes to those who come during the coronavirus crisis. Young women, parents with children, and foreign people too
-   </td>
-  </tr>
-  <tr>
+  </p></td></tr><tr>
    <td>（本文）
 <p>
 若い人や女性も来やすい食堂
-<p>
+</p><p>
 元日３４０食、３日は３７８食
-   </td>
-   <td>(Main)
+   </p></td><td>(Main)
 <p>
 A cafeteria where both young people and women are welcome
-<p>
+</p><p>
 340 meals on New Year's Day, and 378 meals on the 3rd
-   </td>
-  </tr>
-  <tr>
+  </p></td></tr><tr>
    <td>１月３日、東京・新宿からもほど近い四ツ谷駅前の聖イグナチオ教会で「年越し大人食堂 ２０２１」が開催された。新型コロナ災害緊急アクション、つくろい東京ファンド、ＰＯＳＳＥ、反貧困ネットワーク、ビッグイシュー基金による共催で、料理研究家の枝元なほみさん（※1）がボランティアスタッフと３７８食の弁当を作った。
    </td>
    <td>On January 3rd, the "New Year's Adults' Cafeteria 2021" was held at St. Ignatius Church in front of Yotsuya Station, not too far from Shinjuku, Tokyo. Thanks to the joint hosting of Emergency Action for the COVID-19 Disaster, Tsukuroi Tokyo Fund, POSSE, Anti-Poverty Network, and The Big Issue Japan Foundation, the culinary expert Edamoto Nahomi (* 1) and the volunteer staff made 378 boxed meals.
@@ -72,13 +66,10 @@ A cafeteria where both young people and women are welcome
    <td>みんな混ざり合う空間
 <p>
 困っていること恥じなくていい
-   </td>
-   <td>A space for all to mingle
+   </p></td><td>A space for all to mingle
 <p>
 Don't feel ashamed about being in dire straits
-   </td>
-  </tr>
-  <tr>
+  </p></td></tr><tr>
    <td>この日、別室では労働、生活、医療、女性、法律の専門家が相談に乗り、必要に応じて「反貧困ネットワークの反貧困緊急ささえあい基金から支援金を支給したり、東京都が提供している一時宿泊場所のホテルや生活保護の申請などにつないだり」した。
    </td>
    <td>On each day, in another room there were experts available to give consultations on work, life, medical care, women's, and legal issues. As necessary, "need-based grants were given from the Anti-Poverty Network's Anti-Poverty Emergency Mutual Support Fund, and assistance was given to connect people with applications for the temporary hotel lodgings offered by the Tokyo government and for public assistance."
@@ -112,36 +103,30 @@ Don't feel ashamed about being in dire straits
    <td>※１ ビッグイシュー基金共同代表
 <p>
 ※２ つくろい東京ファンド代表理事、ビッグイシュー基金共同代表
-   </td>
-   <td>* 1 Co-head of The Big Issue Japan Foundation
+   </p></td><td>* 1 Co-head of The Big Issue Japan Foundation
 <p>
 * 2 Representative of the Board of Directors of the Tsukuroi Tokyo Fund, Co-head of The Big Issue Japan Foundation
-   </td>
-  </tr>
-  <tr>
+  </p></td></tr><tr>
    <td>（写真キャプ）
 <p>
 1日、3日とも300食以上。ベジタリアン対応など、多彩なお弁当が並んだ
-<p>
+</p><p>
 稲葉剛さん
-<p>
+</p><p>
 枝元なほみさん
-<p>
+</p><p>
 （写真クレジット）
-<p>
+</p><p>
 Photos : 浅野カズヤ
-   </td>
-   <td>(Photo captions)
+   </p></td><td>(Photo captions)
 <p>
 Over 300 meals on both the 1st and the 3rd. Colorful boxed meals including vegetarian selections lined up
-<p>
+</p><p>
 Tsuyoshi Inaba
-<p>
+</p><p>
 Edamoto Nahomi
-<p>
+</p><p>
 (Photo credit)
-<p>
+</p><p>
 Photos: Asano Kazuya
-   </td>
-  </tr>
-</table>
+</p><p></p><p></p><p></p><p></p></td></tr></tbody></table>
