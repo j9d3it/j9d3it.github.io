@@ -1,0 +1,16 @@
+---
+label: 'Post: Standard'
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: excerpt_separator
+  label: excerpt_separator
+- type: list
+  name: categories
+  label: categories
+- type: list
+  name: tags
+  label: tags
