@@ -14,3 +14,5 @@ fields:
 - type: list
   name: tags
   label: tags
+pages:
+- _posts/2021-new-year-s-adults-cafeteria.md
