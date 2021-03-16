@@ -7,41 +7,32 @@ tags: []
 ---
 
 <table>
-  <tr>
+  <tbody><tr>
    <td>（タイトル）
 <p>
 「ホームレス人生相談」ベストセレクション 2020
-   </td>
-   <td>(Title)
+   </p></td><td>(Title)
 <p>
 Best of "Life Advice from the Homeless" 2020
-   </td>
-  </tr>
-  <tr>
+  </p></td></tr><tr>
    <td>（リード）
 <p>
 『ビッグイシュー日本版』で毎号連載されている「ホームレス人生相談」。読者から悩み事を募集し、販売者数名が交代でアドバイスをしていく大人気のコーナーだ。記事には販売者のイニシャルと販売場所が掲載されるため、「今回の人生相談は僕が担当したんです」とお客さんとの会話につながったり、お客さんの方から「人生相談の回答を読んでファンになったので、この販売者さんから雑誌を買いたい」とわざわざ遠くから販売場所にやってくる人もいる。この「ホームレス人生相談」は毎回、料理研究家・枝元なほみさんによる「悩みに効く料理」レシピ付き。連載をまとめた単行本もこれまでに２回出版した。そんな「ホームレス人生相談」から、2020年の選りすぐりをお届けする。
-   </td>
-   <td>(Lead)
+   </p></td><td>(Lead)
 <p>
 "Life Advice from the Homeless" is a column that runs in every issue of "The Big Issue Japan". Readers submit their concerns and things on their minds, and several of our vendors take turns giving advice on them. It's a very popular column. In each article the vendor's initial and their pitch are published. Due to this, the vendor can start conversations with their customers by telling them, "I answered the Life Advice column in this one." Some customers come from far away just to buy the magazine at a specific pitch. They had read the vendor's answer in the Life Advice column, became a fan, and wanted to buy the magazine from them. Also  included with and tailored to each piece of advice are "Cooking for the Soul" recipes by the culinary expert Edamoto Nahomi. Two paperbacks of installments have been published. Here is a selection of the best installments from "Life Advice from the Homeless" in 2020.
-   </td>
-  </tr>
-  <tr>
+  </p></td></tr><tr>
    <td>（１）
 <p>
 同僚や上司のマスク姿の顔しか知りません
-<p>
+</p><p>
 23歳／女性／会社員
-   </td>
-   <td>(1)
+   </p></td><td>(1)
 <p>
 I have never seen my coworkers' and bosses' faces without masks on
-<p>
+</p><p>
 23 / Female / Office Worker
-   </td>
-  </tr>
-  <tr>
+  </p></td></tr><tr>
    <td>４月から新社会人になりましたが入社式翌日から約1ヵ月半は在宅勤務でした。現在は出社していますが、入社式から現在に至るまで常にマスク着用です。同僚や上司の顔を半分しか知らない中では、どんなコミュニケーションが効果的だと思いますか？
    </td>
    <td>I started my adult working life in April. I worked from home for about a month and a half starting from the day after the company welcoming ceremony. I'm going into the office now, but I've been wearing a mask the whole time. Since I have only ever seen half of my coworkers' and bosses' faces, what do you think effective communication should look like?
@@ -75,27 +66,21 @@ I have never seen my coworkers' and bosses' faces without masks on
    <td>顔が半分しか見えなくても、伝えたい、受け止めたいという気持ちがあれば、コミュニケーションもうまくいくような気がします。それに、マスクの有無にかかわらず、人と人との関係性を育むにはそもそも時間がかかるものですから、あなたもまったく焦ることないですよ。ゆっくりと職場の人とのおつき合いを深めていってくださいね。
 <p>
 （大阪／Ｓさん）
-   </td>
-   <td>Even if only half your face is visible, if you have the intention of getting your point across and face this head-on, I feel that you can communicate well. Besides, with or without a mask, building relationships with others takes time on its own, so this is nothing to fret about. Please take your time to deepen your relationships with your coworkers.
+   </p></td><td>Even if only half your face is visible, if you have the intention of getting your point across and face this head-on, I feel that you can communicate well. Besides, with or without a mask, building relationships with others takes time on its own, so this is nothing to fret about. Please take your time to deepen your relationships with your coworkers.
 <p>
 ("S" in Osaka)
-   </td>
-  </tr>
-  <tr>
+  </p></td></tr><tr>
    <td>（２）
 <p>
 自分を誰かと比較してしまいます。
-<p>
+</p><p>
 20代／女性／大学生
-   </td>
-   <td>(2)
+   </p></td><td>(2)
 <p>
 I always end up comparing myself to others.
-<p>
+</p><p>
 20s / Female / College Student
-   </td>
-  </tr>
-  <tr>
+  </p></td></tr><tr>
    <td>人と比べられるのはいやですが、気づくと自分でも人と自分を比べてしまっています。勉強もスポーツも楽器も苦手。唯一、少し得意なのはお菓子作り。「自分は自分」だと思うためには、何を拠り所にしたらよいでしょうか？
    </td>
    <td>Being compared to others is bad enough, but I notice that I'm comparing myself to others too. I'm bad at studying, sports, and playing instruments too. The one thing I'm a little good at is making sweets. So I can remember to "live and let live", how can I ground myself and get a footing?
@@ -135,27 +120,21 @@ I always end up comparing myself to others.
    <td>好きなことに少しずつでも力を注ぎ続けたら、人と比較する必要のない、自分なりの自信につながるんだと思います。応援していますよ！
 <p>
 （大阪・梅田歩道橋上／Ｈさん）
-   </td>
-   <td>I think that if you continue to put even a little effort into the things you like, your own self-confidence will grow without having to compare yourself to others. I'm rooting for you!
+   </p></td><td>I think that if you continue to put even a little effort into the things you like, your own self-confidence will grow without having to compare yourself to others. I'm rooting for you!
 <p>
 ("H" at Umeda Pedestrian Bridge in Osaka)
-   </td>
-  </tr>
-  <tr>
+  </p></td></tr><tr>
    <td>（３）
 <p>
 難病の友人にどう寄り添えばいいでしょうか
-<p>
+</p><p>
 30代／男性
-   </td>
-   <td>(3)
+   </p></td><td>(3)
 <p>
 How can I become more close with my friend with a rare disease?
-<p>
+</p><p>
 30s / Male
-   </td>
-  </tr>
-  <tr>
+  </p></td></tr><tr>
    <td>若くして難病に侵され、先行きの見えない友にかける言葉が見当たりません。どう寄り添っていったらよいでしょう？
    </td>
    <td>I can't find the words I need to say to my friend who was struck with a rare disease at a young age and whose future is uncertain. How can I become more close to them?
@@ -195,27 +174,21 @@ How can I become more close with my friend with a rare disease?
    <td>誰かが気に掛けてくれている――。そう考えたら、しんどくても明日もまたちょっとがんばってみようかなと思えるんですよね。お友達にとって、もし、あなたがそんな存在であり続けられたら、お友達の安らかな時間も増えるような気がします。
 <p>
 （奈良・生駒／Ⅰさん）
-   </td>
-   <td>"Someone cares about me." If you think that, then no matter how downtrodden you feel, you can continue on and try your best tomorrow, no matter how small the effort may seem. For your friend, if you continue to be there for them, their time spent at ease will grow as a result.
+   </p></td><td>"Someone cares about me." If you think that, then no matter how downtrodden you feel, you can continue on and try your best tomorrow, no matter how small the effort may seem. For your friend, if you continue to be there for them, their time spent at ease will grow as a result.
 <p>
 ("I" in Ikoma, Nara)
-   </td>
-  </tr>
-  <tr>
+  </p></td></tr><tr>
    <td>（４）
 <p>
 将来の夢がなく、あせります
-<p>
+</p><p>
 16歳／女子／高校生
-   </td>
-   <td>(4)
+   </p></td><td>(4)
 <p>
 I have no idea what I want to be and am stressed out
-<p>
+</p><p>
 16 / Female / High School Student
-   </td>
-  </tr>
-  <tr>
+  </p></td></tr><tr>
    <td>将来の夢がなかなか定まりません。学校でも進路に合わせたコース分けが始まるのに、特に夢がないんです。もっとゆっくり決めてもいいと思うのに、学校や親が問い詰めてくるのであせります。
    </td>
    <td>I haven't decided at all what I want to be in the future. Even though we have to choose a course at school that will fit our chosen path, I don't have any dream in particular. I want to take my time choosing, but my school and my parents are pressuring me to choose something and I'm feeling rushed.
@@ -245,7 +218,5 @@ I have no idea what I want to be and am stressed out
    <td>For myself, I really feel that no matter how old I get I can keep brushing up and learning new things. I think that you will happen upon your dreams and goals as your experiences build on one another, so don't get flustered and study what you can now. 
 <p>
 ("Y" in Yodoyabashi, Osaka)
-   </td>
-  </tr>
-</table>
 
+</p></td></tr></tbody></table>
