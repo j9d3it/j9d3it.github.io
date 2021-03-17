@@ -6,6 +6,12 @@ tags: []
 
 ---
 
+This is my translation of a story that originally appeared in [The Big Issue Japan](https://www.bigissue.jp/).
+
+I translated it as a volunteer so that it could be published in other [International Network of Street Papers](https://insp.ngo/) publications.
+
+The original Japanese is on the left, and my translation is on the right.
+
 <table>
   <tbody><tr>
    <td>（タイトル）
