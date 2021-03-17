@@ -7,45 +7,36 @@ tags: []
 ---
 
 <table>
-  <tr>
+  <tbody><tr>
    <td>（タイトル）
 <p>
 今年10月、自殺者数が大幅増。
-<p>
+</p><p>
 コロナ禍による女性・若者へのしわ寄せも……？
-   </td>
-   <td>(Title)
+   </p></td><td>(Title)
 <p>
 This October, the number of suicides increased significantly.
-<p>
+</p><p>
 How has the burden placed on women and young people by the coronavirus crisis affected this increase?
-   </td>
-  </tr>
-  <tr>
+  </p></td></tr><tr>
    <td>（リード）
 <p>
 今年10月の自殺者数が大きく増えたことに衝撃が走った。とくに女性の増加率が顕著だという。背景には、コロナによる生活不安、有名人の自殺報道との関連も考えられる。ＮＰＯ法人「自殺対策支援センター ライフリンク」の代表・清水康之さんに話を聞いた。
-   </td>
-   <td>(Lead)
+   </p></td><td>(Lead)
 <p>
 The large increase in suicides this October sent shock waves throughout Japan and the world. Particularly striking was the increased rate of women committing suicide. Possible context for these are worries about one's life due to the coronavirus and news of celebrity suicides. We spoke with Shimizu Yasuyuki, the head of the nonprofit "Suicide Prevention Support Center - Life Link."
-   </td>
-  </tr>
-  <tr>
+  </p></td></tr><tr>
    <td>（本文）
 <p>
 自殺者数、４～６月は減少
-<p>
+</p><p>
 ７月半ばから一気に増加
-   </td>
-   <td>(Main)
+   </p></td><td>(Main)
 <p>
 Suicides decreased in April through June
-<p>
+</p><p>
 but sharply increased in the middle of July
-   </td>
-  </tr>
-  <tr>
+  </p></td></tr><tr>
    <td>警察庁によると、今年10月の自殺者数は全国で２１５８人（10月末暫定値）。過去５年間で最も多い人数となった。この10年間は、対策の広がりなどもあって自殺者数は減少傾向だったが、今年7月以降は増加が続く。
    </td>
    <td>According to the National Police Agency, the number of suicides in Japan for the month of October was 2,158 (provisional figure). It was the highest number of people in the past five years. In the past ten years, due to the spread of prevention efforts and other factors, suicides were on a downward trend, but an increase has been continuing since July.
@@ -85,13 +76,10 @@ but sharply increased in the middle of July
    <td>７月以降あらゆる年代で女性増
 <p>
 ８月には女子高生の自殺
-   </td>
-   <td>An increase in women of all ages after July
+   </p></td><td>An increase in women of all ages after July
 <p>
 Suicides of high school girls in August
-   </td>
-  </tr>
-  <tr>
+  </p></td></tr><tr>
    <td>さらに、7月以降、あらゆる年代で女性の自殺が増加しているのも特徴だ。
    </td>
    <td>Furthermore, after July, another dimension is that suicides of women of all ages increased.
@@ -149,14 +137,11 @@ Suicides of high school girls in August
    <td>（プロフィール）
 <p>
 しみず・やすゆき
-<p>
+</p><p>
 1972年、東京生まれ。元ＮＨＫ報道ディレクター。自死遺児を取り上げた番組の取材を機にNHKを退職し、2004年にNPO法人「自殺対策支援センターライフリンク」を設立。10万人署名運動などを通して、06年の「自殺対策基本法」成立に大きく貢献した。元内閣参与。自殺対策全国民間ネットワーク代表。厚労大臣指定法人「いのち支える自殺対策推進センター」代表理事。
-   </td>
-   <td>(Profile)
+   </p></td><td>(Profile)
 <p>
 Shimizu Yasuyuki
-<p>
+</p><p>
 Born in 1972 in Tokyo. Former NHK news director. After he did a program covering orphaned children whose parents had committed suicide, he quit NHK and in 2004 founded the nonprofit "Suicide Prevention Support Center - Life Link." In 2006, through a campaign that collected 1 million signatures and other actions, he had a large contribution to the establishment of the Basic Act on Suicide Prevention. Former Cabinet Advisor. Leader of the NGO National Suicide Prevention Network. Representative of the Board of Directors of the Ministry of Health, Labour, and Welfare Designated Corporation "Japan Suicide Countermeasures Promotion Center."
-   </td>
-  </tr>
-</table>
+</p><p></p></td></tr></tbody></table>
