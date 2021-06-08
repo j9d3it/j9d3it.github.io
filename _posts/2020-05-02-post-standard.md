@@ -25,11 +25,3 @@ Entirety of [Part 9](https://www.teamgaki.com/youth-high-school-batsu-2019-20-pa
 [Part 7.3](https://www.teamgaki.com/youth-high-school-batsu-2019-20-part-7/ "Team Gaki") (also available [here](https://www.dailymotion.com/video/k5xPeDF6iaoP5Qw3G43?start=1208 "Dailymotion")) (from 20:08\~)
 
 [Part 4.2](https://www.teamgaki.com/youth-high-school-batsu-2019-20-part-4/ "Team Gaki") (also available [here](https://www.dailymotion.com/video/k4vBQLFJqw9lc6vYKLG?start=600 "Dailymotion")) (10:00\~19:54)
-
-### Ena City 2020 Trash Collection Calendar
-
-English version: [２０２０年度恵那市ごみカレンダー英語版](/uploads/2020英語版ごみカレンダー.pdf "２０２０年度恵那市ごみカレンダー英語版")
-
-translated from [令和2年度ごみ収集カレンダー　恵南](/uploads/令和2年度ごみ収集カレンダー　恵南.pdf) and [令和2年度ごみ収集カレンダー 旧恵那](/uploads/令和2年度ごみ収集カレンダー　旧恵那.pdf)
-
-Additional phrases: [翻訳依頼文](/uploads/翻訳依頼文.pdf)
