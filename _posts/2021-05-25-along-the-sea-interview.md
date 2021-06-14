@@ -16,8 +16,6 @@ The original Japanese is on the left, and my translation is on the right.
     <tbody>
         <tr>
             <td>
-            </td>
-            <td>
                 <p>
                     失踪する海外からの技能実習生、過酷な現実
                 </p>
@@ -43,8 +41,6 @@ The original Japanese is on the left, and my translation is on the right.
         </tr>
         <tr>
             <td>
-            </td>
-            <td>
                 <p>
                     ある夜、技能実習生として来日した３人のベトナム人女性が、劣悪な職場から脱走を図った。ブローカーを頼りに、たどり着いたのは雪深い港町。非正規就労での生活が始まった矢先、そのうちの一人が体調を崩して倒れ、身分証がないまま病院へと向かったのだが――。
                 </p>
@@ -62,8 +58,6 @@ The original Japanese is on the left, and my translation is on the right.
         </tr>
         <tr>
             <td>
-            </td>
-            <td>
                 <p>
                     前作『僕の帰る場所』で、難民申請中の在日ミャンマー人家族の暮らしをリアルに描き出した藤元明緒監督。続く本作『海辺の彼女たち』では、ベトナムから技能実習生として日本に来た若い女性たちの姿を取り上げている。
                 </p>
@@ -79,8 +73,6 @@ The original Japanese is on the left, and my translation is on the right.
             </td>
         </tr>
         <tr>
-            <td>
-            </td>
             <td>
                 <p>
                     制作のきっかけとなったのは、藤元監督が在日ミャンマー人である妻と一緒にミャンマー語で日本の情報を発信していたFacebookページだった。ある日、そこにミャンマー人技能実習生からのＳＯＳが届いた。
@@ -113,8 +105,6 @@ The original Japanese is on the left, and my translation is on the right.
                     their workplaces and becoming undocumented.
                 </p>
             </td>
-            <td>
-            </td>
         </tr>
         <tr>
             <td>
@@ -134,8 +124,6 @@ The original Japanese is on the left, and my translation is on the right.
                     also been documented.
                 </p>
             </td>
-            <td>
-            </td>
         </tr>
         <tr>
             <td>
@@ -152,8 +140,6 @@ The original Japanese is on the left, and my translation is on the right.
                     experience of coming from abroad to live in Japan as a
                     reference.
                 </p>
-            </td>
-            <td>
             </td>
         </tr>
         <tr>
@@ -175,8 +161,6 @@ The original Japanese is on the left, and my translation is on the right.
                     impression that they didn't have any other options."
                 </p>
             </td>
-            <td>
-            </td>
         </tr>
         <tr>
             <td>
@@ -190,8 +174,6 @@ The original Japanese is on the left, and my translation is on the right.
                     desperate and harsh lives as technical trainees, just like
                     the main characters depicted in the film.
                 </p>
-            </td>
-            <td>
             </td>
         </tr>
         <tr>
@@ -212,8 +194,6 @@ The original Japanese is on the left, and my translation is on the right.
                     remarked before filming began.
                 </p>
             </td>
-            <td>
-            </td>
         </tr>
         <tr>
             <td>
@@ -230,8 +210,6 @@ The original Japanese is on the left, and my translation is on the right.
                     and the filmmaker gained a lot from them.
                 </p>
             </td>
-            <td>
-            </td>
         </tr>
         <tr>
             <td>
@@ -245,8 +223,6 @@ The original Japanese is on the left, and my translation is on the right.
                     leave an unforgettable mark on your mind. This, too, is a
                     departure from the original screenplay.
                 </p>
-            </td>
-            <td>
             </td>
         </tr>
         <tr>
@@ -263,8 +239,6 @@ The original Japanese is on the left, and my translation is on the right.
                     speak out. In other words, no one recognizes their
                     existence. I hope to make these silenced voices heard."
                 </p>
-            </td>
-            <td>
             </td>
         </tr>
         <tr>
@@ -290,8 +264,6 @@ The original Japanese is on the left, and my translation is on the right.
                     was selected to appear in the New Directors competition at
                     the 68th San Sebastián International Film Festival.
                 </p>
-            </td>
-            <td>
             </td>
         </tr>
     </tbody>
