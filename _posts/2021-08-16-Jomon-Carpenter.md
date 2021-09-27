@@ -21,7 +21,6 @@ The original Japanese is on the left, and my translation is on the right.
 縄文生活を実践し、今の社会システムと対峙する
 <p>
 ── “縄文大工” 雨宮国広さん
-   </td>
    <td>(Title)
 <p>
 A mud-walled Jomon period cabin, cooking on an open fire, barefoot all year.
@@ -29,8 +28,6 @@ A mud-walled Jomon period cabin, cooking on an open fire, barefoot all year.
 Putting the Jomon lifestyle into practice, and standing face-to-face with the current social system
 <p>
 —"The Jomon Carpenter" Amemiya Kunihiro
-   </td>
-  </tr>
   <tr>
    <td>（リード）
 <p>
@@ -39,7 +36,6 @@ Putting the Jomon lifestyle into practice, and standing face-to-face with the cu
 キャリア30 年の大工でもあり、石斧を使った縄文小屋や丸木舟作りにも参加。
 <p>
 その経験から見えてきたことを聞いた。
-   </td>
    <td>(Lead)
 <p>
 Amemiya Kunihiro built a Jomon period (between around 14500-300 BCE) cabin on his property and has lived there for four years.
@@ -47,18 +43,13 @@ Amemiya Kunihiro built a Jomon period (between around 14500-300 BCE) cabin on hi
 He has been a carpenter for 30 years, and has made Jomon cabins and dugout canoes with stone axes.
 <p>
 We asked him what he has come to see from his experiences. 
-   </td>
-  </tr>
   <tr>
    <td>裸足暮らしで、足裏は柔らか、
 <p>
 人間本来の力を取り戻せている
-   </td>
    <td>Living barefoot, the soles of his feet are soft,
 <p>
 and he has regained natural human ability
-   </td>
-  </tr>
   <tr>
    <td>果樹畑が広がり、心地よい風が吹き抜ける山梨県のとある地区。自宅の敷地の一角に、およそ畳３ 枚分の面積の〝縄文小屋〟を建てたのは、「縄文大工」を名乗る雨宮国広さんだ。２０１２年からこの土壁と板葺き屋根の小屋を作り始め、17 年からはここで生活をしている。 
    </td>
@@ -99,12 +90,9 @@ and he has regained natural human ability
    <td>石斧一振り、何でも作れると直感
 <p>
 ３万年前の丸木舟制作に参加
-   </td>
    <td>His instinct: you can make anything with one swing of a stone axe
 <p>
 He joined in making a dugout canoe like ones from 30,000 years ago
-   </td>
-  </tr>
   <tr>
    <td>30歳の時に工務店を退職し、独立。自然環境にも配慮した家づくりを手掛けるも、ニーズはなかなか増えない。「生活と自分が目指すものづくりの間で悩んでいた時に出合ったのが、東京都立大の山田昌久先生が紹介していた石斧でした」
    </td>
@@ -133,12 +121,9 @@ He joined in making a dugout canoe like ones from 30,000 years ago
    <td>道具は子どもへと体験を開く
 <p>
 全国で石斧での丸木舟作り計画
-   </td>
    <td>Opening up hands-on experiences with tools to children
 <p>
 A plan to make dugout canoes with stone axes all over Japan
-   </td>
-  </tr>
   <tr>
    <td>人類と道具は切っても切れない関係だと雨宮さんは言う。「石が鉄、鉄が機械になり、機械がハイテクマシンになった。そしてそれは今では、地球の状態を変化させるぐらいのハイパワーになった。今や、自然環境への影響はそっちのけで効率と利便性だけで道具を使っているのではないでしょうか。どんな道具であっても人間次第で破壊の道具にもなるし凶器にもなる。道具を手にする時は、地球上にいるすべての命を思いやる気持ちをもたないといけないと思うんです。僕は石斧を使う縄文大工として、森も動物も植物もすべての命が共存できるところを目指したい」
    </td>
@@ -165,7 +150,6 @@ A plan to make dugout canoes with stone axes all over Japan
 1969年、山梨県生まれ。縄文大工。建築家。宮大工として、手道具のみを使う伝統的技術を磨く。2009年に石斧と出合う。15 年に石川県真脇遺跡で縄文住居の復元に参加。17 年には国立科学博物館「3万年前の航海 徹底再現プロジェクト」で丸木舟を制作。著書に『ぼくは縄文大工 石斧でつくる丸木舟と小屋』（平凡社新書）。
 <p>
 <a href="https://www.jomonsan.com/">https://www.jomonsan.com/</a>
-   </td>
    <td>(Profile)
 <p>
 Amemiya Kunihiro
@@ -173,8 +157,6 @@ Amemiya Kunihiro
 Born 1969 in Yamanashi. Jomon Carpenter. Architect. As a temple and shrine construction specialist, he refined his skills in traditional craft using only hand tools. He came across stone axes in 2009. In 2015 he participated in reconstructing Jomon period dwellings at the Mawaki Site in Ishikawa. In 2017 he made a dugout canoe as part of the National Museum of Nature and Science's "Holistic Reenactment Project of  Voyages 30,000 Years Ago."  He wrote a book, "I am a Jomon Carpenter - Making Dugout Canoes and Cabins with a Stone Axe" (published by Heibonsha)
 <p>
 <a href="https://www.jomonsan.com/">https://www.jomonsan.com/</a>
-   </td>
-  </tr>
   <tr>
    <td>（キャプション）
 <p>
@@ -191,7 +173,7 @@ Born 1969 in Yamanashi. Jomon Carpenter. Architect. As a temple and shrine const
 Photos (1,2) : Yokozeki Kazuhiro
 <p>
 写真提供(3,4)：雨宮国広さん
-   </td>
+
    <td>(Captions)
 <p>
 1: He wears a deer coat and a deer and badger loincloth. He dissected the dead animals with an obsidian knife and made the clothing.
@@ -207,7 +189,6 @@ Photos (1,2) : Yokozeki Kazuhiro
 Photos (1,2): Yokozeki Kazuhiro
 <p>
 Photos (3,4):  Amemiya Kunihiro
-   </td>
-  </tr>
-</table>
+
+</p></p></p></p></p></p></p></td></p></p></p></p></p></p></p></td></tr></p></p></p></td></p></p></p></td></tr></p></td></p></td></tr></p></td></p></td></tr></p></td></p></td></tr></p></p></p></td></p></p></p></td></tr></p></p></p></td></p></p></p></td></tr></table>
 
