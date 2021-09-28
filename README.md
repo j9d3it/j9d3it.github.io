@@ -1,4 +1,5 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/aaedcca4-adff-42ec-a6d6-ee727c7eefc8/deploy-status)](https://app.netlify.com/sites/0808/deploys)
+[![Green Website](https://api.thegreenwebfoundation.org/greencheckimage/0808.pw?nocache=true)](https://www.thegreenwebfoundation.org/green-web-check/?url=0808.pw)
 # Personal website
 
 This is a website based on the Minimal Mistakes Jekyll theme for Github Pages.
