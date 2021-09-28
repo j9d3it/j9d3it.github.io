@@ -20,14 +20,14 @@ The original Japanese is on the left, and my translation is on the right.
 <p>
 精神的につらくても、簡単にあきらめるわけにはいかない
 <p>
-——熊本・びぷれす熊日会館前　中西仁志 さん https://www.bigissue.jp/location/bipuresu/
+——熊本・びぷれす熊日会館前　中西仁志 さん 
    <td>(Title)
 <p>
 A pitch supported by customers for close to 9 years
 <p>
 Even though it may be emotionally tough, it's not easy to quit
 <p>
--- Nakanishi Hitoshi, in front of Bipuresu Kumanichi Kaikan in Kumamoto https://www.bigissue.jp/location/bipuresu/
+-- Nakanishi Hitoshi, in front of Bipuresu Kumanichi Kaikan in Kumamoto
   <tr>
    <td>（本文）
 <p>
