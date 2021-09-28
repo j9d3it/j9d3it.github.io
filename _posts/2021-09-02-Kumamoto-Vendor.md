@@ -21,7 +21,6 @@ The original Japanese is on the left, and my translation is on the right.
 精神的につらくても、簡単にあきらめるわけにはいかない
 <p>
 ——熊本・[びぷれす熊日会館前](https://www.bigissue.jp/location/bipuresu/)　中西仁志 さん
-   </td>
    <td>(Title)
 <p>
 A pitch supported by customers for close to 9 years
@@ -29,18 +28,13 @@ A pitch supported by customers for close to 9 years
 Even though it may be emotionally tough, it's not easy to quit
 <p>
 -- Nakanishi Hitoshi, [in front of Bipuresu Kumanichi Kaikan in Kumamoto](https://www.bigissue.jp/location/bipuresu/)
-   </td>
-  </tr>
   <tr>
    <td>（本文）
 <p>
 熊本市内のびぷれす熊日会館前で、見覚えのある赤いポロシャツが目に飛び込んできた。「こんにちは」と声をかけると、「おぉー、どうもどうも！」ととびきりの笑顔で中西仁志さん（61歳）が迎えてくれた。
-   </td>
    <td>(Main)
 <p>
 In front of Bipuresu Kumanichi Kaikan in Kumamoto City, a familiar red polo shirt stands out. When I say "Hello," the 61-year-old Nakanishi Hitoshi greets me with a bright smile and a, "Oh, hello to you too!"
-   </td>
-  </tr>
   <tr>
    <td>中西さんが『ビッグイシュー日本版』の販売者になったのは６年半前のこと。九州でも数少ない販売者ということもあり県をまたいで買いに来てくれるお客さんもいて、当初は月４００冊ほど売れていたという。「それが２０１６年の熊本地震で３００冊近くまで落ち込んでね。最近のコロナ禍では、さらに厳しい数字になっています」
    </td>
@@ -105,13 +99,10 @@ In front of Bipuresu Kumanichi Kaikan in Kumamoto City, a familiar red polo shir
    <td>後ろには老舗デパート、鶴屋百貨店が見える
 <p>
 文と写真：八鍬加容子
-   </td>
    <td>(Photo caption)
 <p>
 Visible behind him is the long-standing Tsuruya Department Store.
 <p>
 Text and Photos: Yakuwa Kayoko
-   </td>
-  </tr>
-</table>
 
+</p></p></td></p></td></tr></p></td></p></td></tr></p></p></p></td></p></p></p></td></tr></table>
