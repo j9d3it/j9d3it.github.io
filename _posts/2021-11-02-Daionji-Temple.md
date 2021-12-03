@@ -126,10 +126,8 @@ The original Japanese is on the left, and my translation is on the right.
    <td>今年４月から農園で野菜栽培も
 <p>
 各地に孤立を防ぐ集会所あれば
-   </td>
    <td>Providing support both in life and in death
    </td>
-  </tr>
   <tr>
    <td>しかし中には、ここへたどり着く途中に交通事故で亡くなった実習生の女性もいた。「通帳には千円しかなく、残されたノートには、ベトナム語のお経と家族に向けた祈りの言葉が書かれていました」
    </td>
@@ -188,16 +186,13 @@ The original Japanese is on the left, and my translation is on the right.
    <td>（プロフィール）
 <p>
 ティック・タム・チー
-   </td>
    <td>PROFILE
 <p>
 Thich Tam Tri
-   </td>
-  </tr>
   <tr>
    <td>1978年、ベトナム生まれ。7歳で得度。大正大学人間学部仏教学科卒業後、同大学大学院梵文学修士課程修了。国際仏教大学院大学仏教学研究科博士課程満期退学。東日本大震災時、100人近いベトナム人避難者を保護。14年に「一般社団法人在日ベトナム仏教信者会」を設立。18年、ベトナム寺院「大恩寺」の住職となり、在日ベトナム人の支援を続ける。
    </td>
    <td>Born 1978 in Vietnam. Became a nun at seven years old. After graduating from Taisho University’s Human Studies Department Buddhist Studies School, she completed a MA in Sanskrit at the graduate school. She dropped out after completing her courses for a Doctorate in Buddhist Studies at the International College for Postgraduate Buddhist Studies. When the Great East Japan earthquake happened, she protected around 100 Vietnamese evacuees. In 2014, she established the Vietnamese Buddhist Association in Japan. In 2018, she became the chief priest of the Vietnamese Buddhist temple Daionji, and has continued supporting Vietnamese people in Japan.
    </td>
   </tr>
-</table>
+</p></td></p></td></tr></p></td></tr></table>
