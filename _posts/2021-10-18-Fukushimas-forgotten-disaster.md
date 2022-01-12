@@ -1,5 +1,8 @@
 ---
 title: ふくしまから Fukushima's forgotten disaster
+header:
+  image: https://upload.wikimedia.org/wikipedia/commons/1/17/Pumpkin_bomb.jpg
+  caption: "Public domain, via [**Wikimedia Commons**](https://commons.wikimedia.org/wiki/File:Pumpkin_bomb.jpg)"
 excerpt_separator: ''
 categories: []
 tags: []
