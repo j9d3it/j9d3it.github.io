@@ -16,7 +16,7 @@ I translated it as a volunteer so that it could be published in other [Internati
 
 The original Japanese is on the left, and my translation is on the right.
 
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/zSo2Xqaj_jc?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+{% include video id="zSo2Xqaj_jc" provider="youtube" %}
 
 <table>
     <tbody>
