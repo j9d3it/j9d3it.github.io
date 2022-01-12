@@ -12,6 +12,7 @@ I translated it as a volunteer so that it could be published in other [Internati
 
 The original Japanese is on the left, and my translation is on the right.
 
+<a id='GtWr2GEHQWhZu-Vq5AyzSQ' class='gie-single' href='http://www.gettyimages.co.jp/detail/1231320127' target='_blank' style='color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;'>Embed from Getty Images</a><script>window.gie=window.gie||function(c){(gie.q=gie.q||[]).push(c)};gie(function(){gie.widgets.load({id:'GtWr2GEHQWhZu-Vq5AyzSQ',sig:'aeBcRv1zDKKzNebFTZPU_tiuR3l6y37eZOipkUy8JmU=',w:'594px',h:'396px',items:'1231320127',caption: true ,tld:'co.jp',is360: false })});</script><script src='//embed-cdn.gettyimages.com/widgets.js' charset='utf-8' async></script>
 
 <table>
   <tr>
