@@ -1,5 +1,7 @@
 ---
 title: ベトナム寺院「大恩寺」の１年 The haven at the Daionji Vietnamese Buddhist temple
+header:
+  image: https://media.gettyimages.com/photos/picture-id1231320127
 excerpt_separator: ''
 categories: []
 tags: []
