@@ -1,5 +1,8 @@
 ---
 title: 販売者の中西仁志さん The story of Nakanishi Hitoshi, a vendor for The Big Issue Japan
+header:
+  overlay_image: /assets/images/BIJ_Vendor-Nakanishi-Hitoshi_FEAT.jpg
+  caption: "Photo credit: [**The Big Issue Japan**](https://insp.ngo/big-issue-japans-nakanishi-hitoshi-customers-have-been-supporting-us-for-nearly-nine-years-its-easy-not-to-quit/)"
 excerpt_separator: ''
 categories: []
 tags: []
