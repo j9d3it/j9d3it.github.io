@@ -15,11 +15,9 @@ The original Japanese is on the left, and my translation is on the right.
 
 <table>
   <tr>
-   <td><strong>投下訓練で福島市に落とされた“模擬原爆”<p>原爆と原発、二つの「核の人災」伝える渡利地区</strong>
-   </td>
+   <td><strong>投下訓練で福島市に落とされた“模擬原爆”<p>原爆と原発、二つの「核の人災」伝える渡利地区
    <td><strong>Japan’s forgotten disaster: The "pumpkin bomb" dropped for practice on Fukushima</strong>
    </td>
-  </tr>
   <tr>
    <td>アジア太平洋戦争の敗戦間際に、福島市に唯一落とされた爆弾があった。それは原爆の投下訓練弾「模擬原爆」で、渡利地区の水田で作業をしていた一人の少年が命を落とした。この地区は２０１１年の原発事故でも高い放射線を記録した。少年の姉、ミチさんに話を聞いた。
 </td>
@@ -27,9 +25,8 @@ The original Japanese is on the left, and my translation is on the right.
 </td>
   </tr>
   <tr>
-   <td><strong>１９４５年７月、福島に爆弾<p>同所に原発事故の放射性物質も</strong></td>
+   <td><strong>１９４５年７月、福島に爆弾<p>同所に原発事故の放射性物質も
    <td><strong>July 1945: A bomb in Fukushima. March 2011: At the same place, radioactive material from the nuclear power plant accident</strong></td>
-  </tr>
   <tr>
    <td>渡利地区は、福島県の県庁所在地、福島市の中心部から南東へ約４～６㎞のところにある。アパートや公務員の官舎などが建つ住宅街で、古くから暮らす多世代家庭や大きな古い農家、田畑や寺社もある、古さと新しさが同居する地域だ。
 </td>
@@ -61,11 +58,9 @@ The original Japanese is on the left, and my translation is on the right.
    </td>
   </tr>
   <tr>
-   <td><strong>一瞬で奪われた少年の命<p>学校の窓ガラス、民家も破壊</strong>
-   </td>
+   <td><strong>一瞬で奪われた少年の命<p>学校の窓ガラス、民家も破壊
    <td><strong>In an instant, a boy's life was taken away</strong>
    </td>
-  </tr>
   <tr>
    <td>76年前、渡利に投下された模擬爆弾で亡くなった斎藤隆夫さんの姉ミチさん（94歳）に話を聞いた。
    </td>
@@ -115,11 +110,9 @@ The original Japanese is on the left, and my translation is on the right.
    </td>
   </tr>
   <tr>
-   <td><strong>戦後に知ったあの爆弾の事実<p>原発事故で再び核の被害に遭う</strong>
-   </td>
+   <td><strong>戦後に知ったあの爆弾の事実<p>原発事故で再び核の被害に遭う
    <td><strong>She found out the truth of the bomb after the war – and fell victim again after the nuclear power plant disaster</strong>
    </td>
-  </tr>
   <tr>
    <td>戦後、ミチさんは、あの爆弾が全国各地に投下された49発の模擬原爆のうちの1発だったことを記事などを通じて知った。そして11年、東日本大震災と原発事故が起きた。ミチさんの家の周りも放射線量が高くなって、道路の除染作業が行われた。
    </td>
@@ -140,8 +133,5 @@ The original Japanese is on the left, and my translation is on the right.
   </tr>
   <tr>
    <td><strong>あいはら・ひろこ</strong><p>福島県福島市生まれ。ジャーナリスト。被災地の現状の取材を中心に、国内外のニュース報道・取材・リサーチ・翻訳・編集などを行う。
-   </td>
    <td><strong>Profile: Aihara Hiroko</strong><p>Born in Fukishima City, Fukushima. Journalist. Focusing on covering conditions at disaster areas, she reports, covers, researches, translates and edits domestic and foreign news.
-   </td>
-  </tr>
-</table>
+</p></td></p></td></tr></p></strong></td></tr></p></strong></td></tr></p></strong></td></tr></p></strong></td></tr></table>
