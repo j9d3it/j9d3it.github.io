@@ -1,5 +1,9 @@
 ---
 title: 「海辺の彼女たち」監督インタビュー "Along the Sea" Director Interview
+header:
+  video:
+    id: zSo2Xqaj_jc
+    provider: youtube
 excerpt_separator: ''
 categories: []
 tags: []
