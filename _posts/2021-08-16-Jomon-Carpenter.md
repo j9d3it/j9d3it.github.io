@@ -1,5 +1,8 @@
 ---
 title: 縄文生活を実践し、今の社会システムと対峙する He lives a Jomon period lifestyle, and stands face-to-face with today's social system
+header:
+  overlay_image: https://pbs.twimg.com/profile_banners/1393509702982529028/1621074045
+  caption: "Photo credit: [**Amemiya Kunihiro - Jomonsan**](https://twitter.com/Jomonsan_/)"
 excerpt_separator: ''
 categories: []
 tags: []
