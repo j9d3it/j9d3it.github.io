@@ -12,6 +12,8 @@ I translated it as a volunteer so that it could be published in other [Internati
 
 The original Japanese is on the left, and my translation is on the right.
 
+[Read an English article about it by The Mainichi Shimbun.](https://mainichi.jp/english/articles/20210104/p2a/00m/0na/019000c)
+
 <table>
   <tbody><tr>
    <td>400号19p
