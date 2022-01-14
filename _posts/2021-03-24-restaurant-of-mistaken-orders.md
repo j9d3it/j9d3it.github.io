@@ -1,5 +1,7 @@
 ---
 title: 注文をまちがえる料理店 The Restaurant of Mistaken Orders
+header:
+  image: https://donation-pctr.c.yimg.jp/dk/donation/projects/568c9444731bad6014d5abeb1592bc64.jpg
 excerpt_separator: ''
 categories: []
 tags: []
