@@ -14,6 +14,11 @@ The original Japanese is on the left, and my translation is on the right.
 
 [Read an English article about it by The Mainichi Shimbun.](https://mainichi.jp/english/articles/20210104/p2a/00m/0na/019000c)
 
+Tsuyoshi Inaba made some posts about it, click through to see more pictures.
+
+<blockquote class="twitter-tweet" data-dnt="true"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/%E5%B9%B4%E8%B6%8A%E3%81%97%E5%A4%A7%E4%BA%BA%E9%A3%9F%E5%A0%82?src=hash&amp;ref_src=twsrc%5Etfw">#年越し大人食堂</a> <br><br>枝元なほみさんら調理チームの奮闘により、お弁当340食を作り、約270人の方にお渡しすることができました。様々な世代、国籍の方が来られ、相談件数も45件にのぼりました。次回は3日に開催します。 <a href="https://t.co/aPxNSQhzLF">pic.twitter.com/aPxNSQhzLF</a></p>&mdash; 稲葉剛 (@inabatsuyoshi) <a href="https://twitter.com/inabatsuyoshi/status/1344960566553546755?ref_src=twsrc%5Etfw">January 1, 2021</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <table>
   <tbody><tr>
    <td>400号19p
