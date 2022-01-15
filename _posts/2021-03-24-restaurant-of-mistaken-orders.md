@@ -14,6 +14,8 @@ I translated it as a volunteer so that it could be published in other [Internati
 
 The original Japanese is on the left, and my translation is on the right.
 
+This article was chosen for [INSP Best of 2021](https://mailchi.mp/insp/insp-news-service-highlights-special-edition-4844246).
+
 <table>
 <tr>
 <td>ホールスタッフは認知症の状態にある人。
