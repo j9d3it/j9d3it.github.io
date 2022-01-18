@@ -186,4 +186,4 @@ If there's support even those with dementia can work
   Jusqu’à présent, outre les 30 événements organisés au Japon, il s’est ouvert des «restaurants des commandes erronées» à l’étranger dont en Chine, en Corée et au Royaume-Uni. «En fin de compte, je veux que notre société en devienne une où l’on a cette ouverture d’esprit, souhaite l’initiateur du projet. Je veux qu’on en arrive à ne pas avoir à organiser ces événements. Mais nous avons encore un long chemin à faire avant d’y parvenir. D’ici là, nous servirons de passerelle.»
   </td>
 </tr>
-</p></td></p></td></tr></p></td></p></td></tr></p></td></p></td></tr></p></td></p></td></tr></table>
+</p></td></p></td></tr></p></td></p></td></tr></tr></p></td></p></td></tr></p></td></p></td></tr></table>
