@@ -1,5 +1,5 @@
 ---
-title: 注文をまちがえる料理店 The Restaurant of Mistaken Orders
+title: 注文をまちがえる料理店 The Restaurant of Mistaken Orders Restaurant des commandes erronées
 header:
   image: https://donation-pctr.c.yimg.jp/dk/donation/projects/568c9444731bad6014d5abeb1592bc64.jpg
 excerpt_separator: ''
@@ -14,7 +14,7 @@ I translated it as a volunteer so that it could be published in other [Internati
 
 The original Japanese is on the left, and my translation is on the right.
 
-This article was chosen for [INSP Best of 2021](https://mailchi.mp/insp/insp-news-service-highlights-special-edition-4844246).
+This article was chosen for [INSP Best of 2021](https://mailchi.mp/insp/insp-news-service-highlights-special-edition-4844246). It was subsequently [published in French](https://itinerairekiosk.milibris.com/l-itineraire/l-itineraire/2022-01-15) in the Quebec street paper L'Itinéraire. Click the button labeled "En lire plus" and scroll down to see the beginning of the article (titled LE RESTO DES COMMANDES ERRONÉES).
 
 <table>
 <tr>
@@ -24,11 +24,24 @@ This article was chosen for [INSP Best of 2021](https://mailchi.mp/insp/insp-new
 <td>The wait staff is all people with dementia.
 <p>
 This is "The Restaurant of Mistaken Orders," where everyone has fun with mistakes
+ 
+<td>Dans ce restaurant de Tokyo, personne ne s’offusquera
+si le plat qu’on vous sert n’est pas celui que vous avez
+commandé. Au pire, on en rira et on se contentera de
+manger ce qui est devant soi. C’est qu’au «Restaurant
+des commandes erronées », le service aux tables est
+assuré par des personnes aux prises avec des troubles
+de démence.</td>
 <tr>
 <td>「注文をまちがえる料理店」は、注文を取るホールスタッフがみな認知症の状態であるというユニークなイベントだ。2017年に初開催後、これまで国内30ヵ所で開かれてきた。このプロジェクトの目的や目指す社会について、企画者の小国士朗さんに聞いた。
 </td>
 <td>"The Restaurant of Mistaken Orders" is a unique event where the wait staff are all people who live with dementia. After starting in 2017, it has appeared in 30 locations in Japan. We interviewed the producer Shiro Oguni about the project's goals and what kind of society he wants to make.
 </td>
+  <td>Ce projet unique, initié en 2017, a fait des petits et s’est reproduit
+dans 30 endroits un peu partout au Japon. Le magazine de rue
+The Big Issue Japan a interviewé le coordonnateur du projet, Shiro
+Oguni, qui a parlé de ses objectifs et de l’impact qu’il souhaite
+avoir sur la société.</td>
 </tr>
 <tr>
 <td>ハンバーグの献立が餃子に……
@@ -42,6 +55,10 @@ Mistakes aren't fussed over in this caring setting
 </td>
 <td> "At this restaurant, no one knows if what you ordered will come okay." — A restaurant that has this disclaimer actually exists. It is aptly named "The Restaurant of Mistaken Orders." All of the servers who take your orders have dementia.
 </td>
+  <td>«Dans ce restaurant, personne ne sait si la commande reçue sera
+la bonne». C’est l’avertissement que les clients peuvent lire sur le
+menu que leur tendent les serveurs et serveuses, atteints d’une
+forme ou d’une autre de démence. </td>
 </tr>
 <tr>
 <td>「間違えちゃったけどまあいいかと、その場にいる誰もがその間違えを受け入れて、一緒にハハハと楽しんでもらえたら」。そう話すのは企画者の小国士朗さんだ。
