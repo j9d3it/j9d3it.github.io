@@ -17,7 +17,7 @@ The original Japanese is on the left, and my translation is on the right.
 
 [This article is also published on the INSP website.](https://insp.ngo/big-issue-japans-nakanishi-hitoshi-customers-have-been-supporting-us-for-nearly-nine-years-its-easy-not-to-quit/)
 
-[The Big Issue Taiwan translated this article into Chinese.](https://medium.com/thebigissue/%E5%A4%A7%E8%AA%8C%E9%9B%9C%E8%AA%8C-11%E6%9C%88%E8%99%9F-%E7%AC%AC-140-%E6%9C%9F%E5%87%BA%E5%88%8A-1fb31fc8b9d3#3fb9)
+[The Big Issue Taiwan translated this article into Chinese.](https://medium.com/p/1fb31fc8b9d3#3fb9)
 
 <table>
   <tr>
