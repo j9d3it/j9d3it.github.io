@@ -16,7 +16,9 @@ The original Japanese is on the left, my English translation is in the middle, a
 
 This article was chosen for [INSP Best of 2021](https://mailchi.mp/insp/insp-news-service-highlights-special-edition-4844246). It was subsequently [published in French](https://www.facebook.com/GroupeLitineraire/posts/5447569378591523) in the Quebec street paper L'Itinéraire.
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FGroupeLitineraire%2Fposts%2F5447569378591523&width=552&show_text=false&height=353&appId" width="552" height="353" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v12.0" nonce="KnpdoUuq"></script>
+<div class="fb-post" data-href="https://www.facebook.com/GroupeLitineraire/posts/5447569378591523" data-width="" data-show-text="false"><blockquote cite="https://www.facebook.com/GroupeLitineraire/posts/5447569378591523" class="fb-xfbml-parse-ignore"><p>[International] Traduit du japonais à l&#039;anglais puis en français, cet article de Big Issue Japan (ビッグイシュー公式ページ),...</p>Posted by <a href="https://www.facebook.com/GroupeLitineraire/">L&#039;Itinéraire</a> on&nbsp;<a href="https://www.facebook.com/GroupeLitineraire/posts/5447569378591523">Saturday, January 22, 2022</a></blockquote></div>
 
 <table>
 <tr>
