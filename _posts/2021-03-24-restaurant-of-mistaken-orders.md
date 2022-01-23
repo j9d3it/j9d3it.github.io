@@ -14,7 +14,9 @@ I translated it as a volunteer so that it could be published in other [Internati
 
 The original Japanese is on the left, my English translation is in the middle, and a French translation by Josée Panet-Raymond is on the right.
 
-This article was chosen for [INSP Best of 2021](https://mailchi.mp/insp/insp-news-service-highlights-special-edition-4844246). It was subsequently [published in French](https://itinerairekiosk.milibris.com/l-itineraire/l-itineraire/2022-01-15) in the Quebec street paper L'Itinéraire. Click the button labeled "En lire plus" and scroll down to see the beginning of the article (titled LE RESTO DES COMMANDES ERRONÉES).
+This article was chosen for [INSP Best of 2021](https://mailchi.mp/insp/insp-news-service-highlights-special-edition-4844246). It was subsequently [published in French](https://www.facebook.com/GroupeLitineraire/posts/5447569378591523) in the Quebec street paper L'Itinéraire.
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FGroupeLitineraire%2Fposts%2F5447569378591523&width=552&show_text=false&height=353&appId" width="552" height="353" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 <table>
 <tr>
