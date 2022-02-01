@@ -1,5 +1,7 @@
 ---
 title: きこえる人ときこえない人をエンターテイメントでつなぐ手話エンターテイメント発信団oioi Osaka’s oioi group is building connections between hearing and non-hearing people
+header:
+  image: https://www.oioi-sign.com/dev/wp-content/uploads/2019/04/pafo--e1555824318452.jpg
 excerpt_separator: ''
 categories: []
 tags: []
@@ -20,7 +22,7 @@ Here is their parody video of Terminator 2 with English subtitles.
 
 {% include video id="Q-2WdXpYNbA" provider="youtube" %}
 
-An excerpt from this article was republished in [The Big Issue (UK).](https://bigissue.com/magazines/strictlys-rose-ayling-ellis/)
+An excerpt from this article was republished in [The Big Issue (UK) Issue 1496](https://bigissue.com/magazines/strictlys-rose-ayling-ellis/) p. 18.
 
 <table>
   <tr>
