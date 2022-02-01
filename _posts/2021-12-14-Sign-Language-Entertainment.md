@@ -142,5 +142,4 @@ An excerpt from this article was republished in [The Big Issue (UK).](https://bi
    </td>
    <td>Founded 2005 in Osaka. Under the founding principle “Crashing through Barriers”, the group aims to break barriers between those who can and can’t hear through entertainment in the form of sign language skits and songs, and by sharing information about hearing impairments.
    </td>
-  <tr>
-</table>
+</tr></table>
