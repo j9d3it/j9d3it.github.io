@@ -16,7 +16,7 @@ Here's a documentary on Kuroda Naoko, the owner of SALA.
 
 {% include video id="FOMl_Gyq29o" provider="youtube" %}
 
-Here's her documentary from four years ago.
+Here's her TED talk.
 
 {% include video id="mOLYWWuiqBg" provider="youtube" %}
 
