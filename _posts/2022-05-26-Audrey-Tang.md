@@ -133,10 +133,8 @@ Listen to Civil Rap Song feat. Audrey Tang here.
    <td>だが、市民が直接的に政治とかかわるだけで、社会はよりよいものになるのだろうか。もしそれが“多数決”を促進するだけであれば、社会はどこまでも多数派が暮らしやすい“多数者の専制”に陥ってしまう。
 <p>
 　ここで重要なのが、オードリーさんが常にキーワードとしてあげる「包摂（インクルージョン）」の視点だ。「このアイディアが生まれたのは、私自身が多くの既存のグループに属してこなかった経験からきていると思います」
-   </td>
    <td>Does society really improve just as a result of citizens being involved directly with their government? And if that just encourages majority rule, then doesn’t society fall into a “tyranny of the majority,” where only the majority can live easily? The important issue here is “inclusion,” a keyword Tang always brings up. “I think this idea came from my own experience of not being included in many of the existing institutions.”
    </td>
-  </tr>
   <tr>
    <td>自身のセクシュアリティを「Ｘジェンダー（男女の枠にとらわれない性自認）」と呼ぶオードリーさんにとって「性をたった２つの選択肢から選ばなければならない時、自分は包摂されていないと感じてきました」と語る。
    </td>
@@ -153,10 +151,8 @@ Listen to Civil Rap Song feat. Audrey Tang here.
    <td>こうしたオードリーさんの体験が実を結んだプロジェクトがある。
 <p>
 　現在、台湾にはフィリピンやインドネシアなどからの出稼ぎ労働者が数多くおり「地面に座るのが当たり前の文化圏からやって来た人たちは、週末になるとクッションやらいろんなものを持参して台北駅のコンコースに集まり、床に座り込んで仲間と交流して過ごします。でも、地べたに座ることに慣れていない文化を持つ人たちは、そんな光景を見て『座り込むなんてけしからん。電車に乗りたいのに通路を塞がれては困る』と言い始めたのです」。
-   </td>
    <td>Tang’s experiences as a young child found their echo recently in a project where consultation led to solutions that satisfied the needs of all the parties involved. At present, there are many migrant workers in Taiwan who come from the Philippines and Indonesia. This created an issue in Taiwan's main transport hub. “Many people, especially people from cultures where it feels more natural to sit on the ground, [would] often bring some pillows or something and socialize right on the ground in the Taipei Main Station concourse at the weekend,” Tang tells me. “But for cultures that are not used to sitting on the ground, sometimes it creates a lot of tension seeing other people behaving this way – such people say, ‘They are blocking the way; we need to get to our trains.’
    </td>
-  </tr>
   <tr>
    <td>「この問題を解決するために、私たちはトップダウンの命令を出すかわりに、当事者同士で話し合ってもらうことにしました。２回の公開対話と公開パネルを開催し、さらにはＮＧＯにモデレーターをお願いして、空間デザインのワークショップも２回開催しました。その結果、話し合いに参加した人たちは『公共空間は誰もが使えるものでなければならず、それにはみんなの参加が必要である』という“共通の価値観”を確認したのです。このようなプロセスを経て合意した解決策が、床にスマイルという象徴的なイラストを描き『笑顔で座ろうよ！』と人々を招き入れるアイディアでした（左写真）。これによって誰もが気持ちよく駅を使えるよう、座っても問題ない場所をわかりやすく表示したのです」
    </td>
@@ -233,10 +229,8 @@ Listen to Civil Rap Song feat. Audrey Tang here.
    <td>ホームレスでなく“街友”
 <p>
 マイナスのレッテルを取り除く
-   </td>
    <td>An inclusive society for all 
    </td>
-  </tr>
   <tr>
    <td>このようにして“誰も置き去りにしない包摂社会”を目指すオードリーさん。はたして台湾のホームレス問題はどのように捉えているのだろうか。
    </td>
@@ -271,10 +265,8 @@ Listen to Civil Rap Song feat. Audrey Tang here.
    <td>ＡＩは「メガネや火」と同じ
 <p>
 誰もが使える“支援知能”へ
-   </td>
    <td>Opening up technologies past and present to everyone
    </td>
-  </tr>
   <tr>
    <td>デジタルの力を使って民主主義をアップデートする――。その未来を考える際にもう一つ避けて通れないのはAＩをめぐる議論だ。これからますますAＩが発展するにつれ、私たち人間の判断力を奪っていき、それが最終的に民主主義を破壊し、AＩによる支配を導くのではないか……。そんなシナリオに一抹の不安を抱く人々もいる。
    </td>
@@ -285,10 +277,8 @@ Listen to Civil Rap Song feat. Audrey Tang here.
    <td>この点について、オードリーさんは実に楽観的だ。AＩとの上手なつき合い方を「メガネ」と「火」になぞらえてこう話す。
 <p>
  「（AＩと暮らすことは）メガネや火とともに暮らすのと何ら変わりません。そう思いませんか？どちらも“支援技術”だからです。暗闇で目の前がよく見えないなら、松明やメガネが必要です。どちらも私たちがお互いの顔をよく見るのに役立つからです。しかし、松明やメガネが人間にとって代わるわけではありません。もし私があなたに会いたくなって、メガネが必要だとしても『私の代わりにメガネが会いに行きます』とか『あなたが来なくても、代わりにメガネに会うから大丈夫』とはなりません。そんなのはナンセンスです」
-   </td>
    <td>On this point, Tang is very optimistic. They talk about how we can live with AI much like we do glasses and fire. “Yeah, [living with AI is] exactly how we live with eyeglasses, or fire. Right? They’re both assistive technologies. If you can't see very well, in the dark, you need a torch and you need eyeglasses. They are here to help us to see each other more clearly, but they’re not here to replace us. If I want to meet you, and I need eyeglasses, I wouldn’t say, ‘Oh, my eyeglasses replace my eyes’ or ‘My eyeglasses replace you.’ It makes no sense.”
    </td>
-  </tr>
   <tr>
    <td>「もちろん、火はメガネよりもずっと危険です。大火事になれば街全体が焼失しかねない。私たちは台湾と日本に住んでいますから、木造の建物にとって火災がどれほど怖いか身に沁みていますよね。メガネが街を破壊することはおそらくないでしょうから、火はメガネよりも危険です。でも、火を扱うことを許された一握りのエリートだけが火を使う権限を持っているわけではなく、誰もが火を使うことができます。それにはまず、建物がきちんと検査され、適切な建材が使われていること、そしていざという時の消火能力があることが前提となります。あとは、子どもたちにできるだけ小さい頃から料理の仕方を教えます。そうすれば、子どもたちは責任を持って火を使う方法を学びます」
    </td>
@@ -313,6 +303,4 @@ Listen to Civil Rap Song feat. Audrey Tang here.
    <td>“Leonard Cohen wrote, ‘Ring the bells that still can ring / Forget your perfect offering / There is a crack, a crack in everything / That is how the light gets in,’” Tang says. “So, be the light. Anything that you feel is an injustice in the world; those are the cracks in which you, as the light, will shine through. 
 <p>
 “We can all bring a little bit of the future to the current day by acting as the lights [that shine] through the cracks.”
-   </td>
-  </tr>
-</table>
+</p></td></tr></p></td></tr></p></td></tr></p></td></tr></p></td></tr></p></td></tr></table>
