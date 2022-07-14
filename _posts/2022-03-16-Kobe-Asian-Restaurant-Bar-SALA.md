@@ -1,7 +1,8 @@
 ---
 title: Asian women living in Japan find solidarity through cooking their native cuisines
 excerpt_separator: ''
-categories: []
+categories:
+- Immigrants
 tags: []
 
 ---
