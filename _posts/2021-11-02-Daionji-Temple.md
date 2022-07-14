@@ -4,7 +4,8 @@ header:
   image: https://media.gettyimages.com/photos/picture-id1231320127
 excerpt_separator: ''
 categories:
-- Immigrants
+- Foreign Workers
+- Translation
 tags: []
 
 ---
