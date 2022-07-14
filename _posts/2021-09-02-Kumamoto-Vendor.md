@@ -4,7 +4,8 @@ header:
   image: /assets/images/BIJ_Vendor-Nakanishi-Hitoshi_FEAT.jpg
   caption: "Photo credit: [**The Big Issue Japan**](https://insp.ngo/big-issue-japans-nakanishi-hitoshi-customers-have-been-supporting-us-for-nearly-nine-years-its-easy-not-to-quit/)"
 excerpt_separator: ''
-categories: []
+categories:
+- Homeless
 tags: []
 
 ---
