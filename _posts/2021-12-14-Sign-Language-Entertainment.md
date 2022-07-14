@@ -3,7 +3,8 @@ title: きこえる人ときこえない人をエンターテイメントでつ�
 header:
   image: https://www.oioi-sign.com/dev/wp-content/uploads/2019/04/pafo--e1555824318452.jpg
 excerpt_separator: ''
-categories: []
+categories:
+- Disability
 tags: []
 
 ---
