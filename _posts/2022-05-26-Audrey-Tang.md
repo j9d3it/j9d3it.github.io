@@ -1,7 +1,8 @@
 ---
 title: Taiwanese digital minister Audrey Tang on creating inclusive societies with digital technology
 excerpt_separator: ''
-categories: []
+categories:
+- Translation
 tags: []
 
 ---
