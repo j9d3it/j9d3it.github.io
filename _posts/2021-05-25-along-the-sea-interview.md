@@ -3,6 +3,7 @@ title: 「海辺の彼女たち」監督インタビュー "Along the Sea" Direc
 excerpt_separator: ''
 categories:
 - Immigrants
+- Translation
 tags: []
 
 ---
