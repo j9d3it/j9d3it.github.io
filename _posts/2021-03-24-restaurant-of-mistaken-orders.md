@@ -4,7 +4,7 @@ header:
   image: https://donation-pctr.c.yimg.jp/dk/donation/projects/568c9444731bad6014d5abeb1592bc64.jpg
 excerpt_separator: ''
 categories:
-- Aging
+- Disability
 tags: []
 
 ---
