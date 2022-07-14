@@ -1,7 +1,8 @@
 ---
 title: 「海辺の彼女たち」監督インタビュー "Along the Sea" Director Interview
 excerpt_separator: ''
-categories: []
+categories:
+- Immigrants
 tags: []
 
 ---
