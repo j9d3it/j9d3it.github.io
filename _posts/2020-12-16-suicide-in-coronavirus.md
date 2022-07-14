@@ -1,7 +1,8 @@
 ---
 title: 今年10月、自殺者数が大幅増 Suicide in the Coronavirus Crisis
 excerpt_separator: ''
-categories: []
+categories:
+- Translation
 tags: []
 
 ---
