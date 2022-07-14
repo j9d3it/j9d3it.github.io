@@ -1,7 +1,8 @@
 ---
 title: ホームレス人生相談 2020ベストセレクション Best of "Life Advice from the Homeless" 2020
 excerpt_separator: ''
-categories: []
+categories:
+- Homeless
 tags: []
 
 ---
