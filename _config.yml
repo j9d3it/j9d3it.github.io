@@ -14,21 +14,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "Kevin Sword's personal website"
-email: kevin@0808.pw
+email: kv5gv05f@duck.com
 url: "https://www.0808.pw"
 locale: "en"
 timezone: Asia/Tokyo
 repository: "j9d3it/j9d3it.github.io"
 description: >- # this means to ignore newlines until "baseurl:"
   The personal website of Kevin Sword, a teacher and translator based in Japan.
-twitter_username: maiya_kebin
-twitter:
-  username: "maiya_kebin"
 social:
   type:  Person # Person or Organization (defaults to Person)
   name:  Kevin Sword # If the user or organization name differs from the site's name
   links:
-    - "https://twitter.com/maiya_kebin"
     - "https://instagram.com/k.ja.s"
     - "https://www.linkedin.com/in/ksword"
 og_image: /assets/images/bio-photo.jpg
@@ -86,9 +82,6 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.0808.pw"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/maiya_kebin"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/j9d3it"
@@ -98,9 +91,6 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/maiya_kebin"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/j9d3it"
