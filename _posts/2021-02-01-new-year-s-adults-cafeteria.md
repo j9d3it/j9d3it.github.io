@@ -3,6 +3,7 @@ title: 年越し大人食堂2021 New Year's Adults' Cafeteria 2021
 excerpt_separator: ''
 categories:
 - Homeless
+- Translation
 tags: []
 
 ---
