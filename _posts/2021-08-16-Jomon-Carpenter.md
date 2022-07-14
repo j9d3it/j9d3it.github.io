@@ -4,7 +4,8 @@ header:
   overlay_image: https://pbs.twimg.com/profile_banners/1393509702982529028/1621074045
   caption: "Photo credit: [**Amemiya Kunihiro - Jomonsan**](https://twitter.com/Jomonsan_/)"
 excerpt_separator: ''
-categories: []
+categories:
+- Environment
 tags: []
 
 ---
