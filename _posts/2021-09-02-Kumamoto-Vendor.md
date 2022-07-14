@@ -6,6 +6,7 @@ header:
 excerpt_separator: ''
 categories:
 - Homeless
+- Translation
 tags: []
 
 ---
