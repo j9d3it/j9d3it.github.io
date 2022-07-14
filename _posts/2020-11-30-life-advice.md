@@ -3,6 +3,7 @@ title: ホームレス人生相談 2020ベストセレクション Best of "Life
 excerpt_separator: ''
 categories:
 - Homeless
+- Translation
 tags: []
 
 ---
